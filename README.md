@@ -10,7 +10,7 @@
 [//]: # (  <a href="https://trendshift.io/repositories/8731" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8731" alt="harry0703%2FNarratoAI | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>)
 </div>
 <br>
-NarratoAI 是一个自动化影视解说工具，基于LLM实现文案撰写、自动化视频剪辑、配音和字幕生成的一站式流程，助力高效内容创作。
+Rakesh_AI 是一个自动化影视解说工具，基于LLM实现文案撰写、自动化视频剪辑、配音和字幕生成的一站式流程，助力高效内容创作。
 <br>
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/linyqh/NarratoAI)
@@ -44,7 +44,7 @@ _**注意⚠️：近期在 x (推特) 上发现有人冒充作者在 pump.fun �
 
 下面是此人 x(推特) 首页截图
 
-<img src="https://github.com/user-attachments/assets/c492ab99-52cd-4ba2-8695-1bd2073ecf12" alt="Screenshot_20250109_114131_Samsung Internet" style="width:30%; height:auto;">
+
 
 ## 未来计划 🥳
 - [x] windows 整合包发布
