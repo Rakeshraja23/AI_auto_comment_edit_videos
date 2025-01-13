@@ -65,9 +65,9 @@ _**注意⚠️：近期在 x (推特) 上发现有人冒充作者在 pump.fun �
 
 ## 反馈建议 📢
 
-👏 1. 可以提交 [issue](https://github.com/linyqh/NarratoAI/issues)或者 [pull request](https://github.com/linyqh/NarratoAI/pulls)
+👏 1. 可以提交 [issue]
 
-💬 2. [加入开源社区交流群](https://github.com/linyqh/NarratoAI/wiki)
+💬 2. [加入开源社区交流群]
 
 📷 3. 关注公众号【NarratoAI助手】，掌握最新资讯
 
@@ -79,8 +79,7 @@ _**注意⚠️：近期在 x (推特) 上发现有人冒充作者在 pump.fun �
 
 ## 请作者喝一杯咖啡 ☕️
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/5038ccfb-addf-4db1-9966-99415989fd0c" alt="Image 1" style="width: 350px; height: 350px; margin: auto;"/>
-  <img src="https://github.com/user-attachments/assets/07d4fd58-02f0-425c-8b59-2ab94b4f09f8" alt="Image 2" style="width: 350px; height: 350px; margin: auto;"/>
+  
 </div>
 
 ## 许可证 📝
